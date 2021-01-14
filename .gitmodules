@@ -1,4 +1,3 @@
-[submodule "Animated-Landing-Page/index.html"]
-  path = Animated-Landing-Page/index.html
+[submodule "Animated-Landing-Page"]
+  path = Animated-Landing-Page
   url = https://github.com/adriansmuresan/Animated-Landing-Page.git
-  
