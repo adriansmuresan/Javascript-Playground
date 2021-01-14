@@ -1,3 +1,31 @@
 [submodule "Animated-Landing-Page"]
   path = Animated-Landing-Page
   url = https://github.com/adriansmuresan/Animated-Landing-Page.git
+
+[submodule "Infinite-scroll"]
+  path = Infinite-scroll
+  url = https://github.com/adriansmuresan/Infinite-Scroll.git
+
+[submodule "Joke-Teller"]
+  path = Joke-Teller
+  url = https://github.com/adriansmuresan/Joke-Teller.git
+
+[submodule "Light-Dark-Mode"]
+  path = Light-Dark-Mode
+  url = https://github.com/adriansmuresan/Light-Dark-Mode.git
+
+[submodule "Music-Player"]
+  path = Music-Player
+  url = https://github.com/adriansmuresan/Music-Player.git
+
+[submodule "Navigation-Animation"]
+  path = Navigation-Animation
+  url = https://github.com/adriansmuresan/Navigation-Animation.git
+
+[submodule "Picture-in-Picture"]
+  path = Picture-in-Picture
+  url = https://github.com/adriansmuresan/Picture-in-Picture.git
+
+[submodule "Quote Generator"]
+  path = Quote Generator
+  url = https://github.com/adriansmuresan/Quote-Generator.git
